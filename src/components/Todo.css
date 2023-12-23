@@ -1,0 +1,75 @@
+*{
+  margin: 0px;
+  padding: 0px;
+} 
+
+.Todo-app {
+  text-align: center;
+  font-size: 80px;
+  margin-top: 50px;
+  padding-bottom: 20px;
+}
+
+.input-container{
+  display: flex;
+  align-items: center;
+  max-width: 500px;
+  margin: auto;
+}
+
+#input-box{
+    margin-top: 15px;
+    margin-right: 5px;
+    width: 90%;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: lightseagreen;
+    font-weight: bold;
+}
+
+.btn{
+  cursor: pointer;
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  background-color: rgb(2, 45, 109);
+}
+
+.todoList{
+    list-style-type: circle;
+    max-width: 500px;
+    padding: 20px;
+    margin-top: 30px;
+    margin: auto;
+}
+
+.list-item{
+  font-size: 25px;
+  padding: 5px;
+  padding-left: 15px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: rgb(70, 2, 70);
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.del-btn{
+  cursor: pointer;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  background-color: red;
+  border: none;
+  height: 40px;
+}

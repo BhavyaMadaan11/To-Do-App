@@ -1,0 +1,14 @@
+/* body{
+  background-color: blanchedalmond;
+} */
+/* body{
+  background: hsla(266, 63%, 26%, 1);
+
+background: linear-gradient(225deg, hsla(266, 63%, 26%, 1) 0%, hsla(354, 55%, 63%, 1) 50%, hsla(31, 100%, 74%, 1) 100%);
+
+background: -moz-linear-gradient(225deg, hsla(266, 63%, 26%, 1) 0%, hsla(354, 55%, 63%, 1) 50%, hsla(31, 100%, 74%, 1) 100%);
+
+background: -webkit-linear-gradient(225deg, hsla(266, 63%, 26%, 1) 0%, hsla(354, 55%, 63%, 1) 50%, hsla(31, 100%, 74%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#3E196E", endColorstr="#D46C76", GradientType=1 );
+} */
